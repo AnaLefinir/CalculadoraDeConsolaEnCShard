@@ -1,0 +1,10 @@
+D:\Ana\Estudio Programacion\CuentaBancaria\bin\Debug\netcoreapp2.0\CuentaBancaria.deps.json
+D:\Ana\Estudio Programacion\CuentaBancaria\bin\Debug\netcoreapp2.0\CuentaBancaria.runtimeconfig.json
+D:\Ana\Estudio Programacion\CuentaBancaria\bin\Debug\netcoreapp2.0\CuentaBancaria.runtimeconfig.dev.json
+D:\Ana\Estudio Programacion\CuentaBancaria\bin\Debug\netcoreapp2.0\CuentaBancaria.dll
+D:\Ana\Estudio Programacion\CuentaBancaria\bin\Debug\netcoreapp2.0\CuentaBancaria.pdb
+D:\Ana\Estudio Programacion\CuentaBancaria\obj\Debug\netcoreapp2.0\CuentaBancaria.csproj.CoreCompileInputs.cache
+D:\Ana\Estudio Programacion\CuentaBancaria\obj\Debug\netcoreapp2.0\CuentaBancaria.AssemblyInfoInputs.cache
+D:\Ana\Estudio Programacion\CuentaBancaria\obj\Debug\netcoreapp2.0\CuentaBancaria.AssemblyInfo.cs
+D:\Ana\Estudio Programacion\CuentaBancaria\obj\Debug\netcoreapp2.0\CuentaBancaria.dll
+D:\Ana\Estudio Programacion\CuentaBancaria\obj\Debug\netcoreapp2.0\CuentaBancaria.pdb
